@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(rgb(5, 4, 170) 0%, aliceblue 100%);
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+
+#backButtonKitchen {
+    font-size: 16px;
+    color: royalblue;
+    background-color: azure;
+    width: 400px;
+    height: 36px;
+}
+
+#numberOfObjectsLabel {
+    font-size: 16px;
+    color: blueviolet;
+    background-color: aliceblue;
+    width: 400px;
+    height: 36px;
+}
+
+canvas {
+    box-shadow: 4px 4px 4px blueviolet;
+    border-radius: 14px;
+    border-width: 4px;
+    border-color: azure;
+    border-style: dotted;
+    width: 600px;
+    height: 500px;
+}
